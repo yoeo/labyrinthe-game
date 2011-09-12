@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Jeu.cpp" open="1" top="1" tabpos="9">
+		<Cursor position="8499" topLine="68" />
+	</File>
+	<File name="Jeu.h" open="1" top="0" tabpos="8">
+		<Cursor position="1262" topLine="18" />
+	</File>
+	<File name="Joueur.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="478" topLine="0" />
+	</File>
+	<File name="Joueur.h" open="1" top="0" tabpos="1">
+		<Cursor position="792" topLine="0" />
+	</File>
+	<File name="Plateau.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="5398" topLine="19" />
+	</File>
+	<File name="Plateau.h" open="1" top="0" tabpos="2">
+		<Cursor position="361" topLine="0" />
+	</File>
+	<File name="SDL_GL.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="150" topLine="0" />
+	</File>
+	<File name="SDL_GL.h" open="1" top="0" tabpos="5">
+		<Cursor position="337" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="57" topLine="1" />
+	</File>
+</CodeBlocks_layout_file>
